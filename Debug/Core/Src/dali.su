@@ -1,0 +1,15 @@
+dali.c:201:6:DALIInit	16	static
+dali.c:214:6:DALIConfigureMode	16	static
+dali.c:219:6:DALICheckCable	8	static
+dali.c:244:6:DALITimerIntHandler	16	static
+dali.c:654:6:DALIRxIntHandler	8	static
+dali.c:1001:9:DALISendData	16	static
+dali.c:1025:6:DALIProcessSendData	16	static
+dali.c:1060:9:DALIDataAvailable	8	static
+dali.c:1065:19:DALIReceiveData	16	static
+dali.c:1071:9:DALIReceiveDataFlags	8	static
+dali.c:1076:10:DALIReadFlags	8	static
+dali.c:1081:9:DALIReadState	8	static
+dali.c:1086:6:DALIClearFlags	16	static
+dali.c:1094:6:DALIAppendToQueue	8	static
+dali.c:1129:6:DALIReceiveTwice	8	static

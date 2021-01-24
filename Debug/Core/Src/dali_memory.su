@@ -1,0 +1,8 @@
+dali_memory.c:26:6:dali_memory_init	8	static
+dali_memory.c:57:10:erase_page	32	static,ignoring_inline_asm
+dali_memory.c:78:6:dali_NVM_unlock	8	static
+dali_memory.c:86:6:dali_NVM_lock	8	static
+dali_memory.c:94:15:dali_memory_read	32	static
+dali_memory.c:126:9:dali_memory_write	32	static
+dali_memory.c:165:6:memory_write	320	static,ignoring_inline_asm
+dali_memory.c:221:6:dali_memory_reset	48	static,ignoring_inline_asm

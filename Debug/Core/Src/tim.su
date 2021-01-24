@@ -1,0 +1,12 @@
+tim.c:33:6:MX_TIM2_Init	32	static
+tim.c:62:6:MX_TIM3_Init	32	static
+tim.c:91:6:MX_TIM6_Init	16	static
+tim.c:113:6:MX_TIM14_Init	8	static
+tim.c:129:6:HAL_TIM_Base_MspInit	32	static
+tim.c:190:6:HAL_TIM_Base_MspDeInit	16	static
+tim.c:249:6:set_timer_reload_val	16	static
+tim.c:253:6:reset_timer	16	static
+tim.c:257:6:set_timer_count	16	static
+tim.c:261:10:get_timer_count	16	static
+tim.c:265:6:disable_timer_int	16	static
+tim.c:270:6:enable_timer_int	16	static

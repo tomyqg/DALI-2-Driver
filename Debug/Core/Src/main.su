@@ -1,0 +1,5 @@
+main.c:99:5:main	24	static
+main.c:394:6:SystemClock_Config	80	static
+main.c:432:6:checkSensorType	24	static
+main.c:452:6:dark_calibrate	16	static
+main.c:464:6:Error_Handler	8	static

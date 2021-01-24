@@ -1,0 +1,8 @@
+dali_application.c:90:6:DALI_AppInit	8	static
+dali_application.c:193:6:DALI_ProcessRxData	472	static
+dali_application.c:1442:6:DALI_SendEvent	40	static
+dali_application.c:1510:6:DALI_Reset_Variables	8	static
+dali_application.c:1558:6:DALI_Save_Variable	8	static
+dali_application.c:1584:6:DALI_Set_inputValue	16	static
+dali_application.c:1597:7:DALI_Send_PowerCycleEvent	32	static
+dali_application.c:1622:7:DALI_Check_ResetState	8	static
